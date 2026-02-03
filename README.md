@@ -5,3 +5,5 @@
 1. Автоматическое определение пути установки Steam через реестр Windows.
 2. Мониторинг скорости загрузки в реальном времени.
 3. Определение статуса загрузки.
+
+ссылка на таблицу для задания 3: https://docs.google.com/spreadsheets/d/1E_fIGrYloFX3mTMTNFGCj_CiKTYo5pMtxkdOahJCgzY/edit?usp=sharing (забыл на изначальную ссылку открыть доступ)
